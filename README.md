@@ -1,8 +1,5 @@
 ### Hi there, I'm Adam 👋
 
-<!--
-**adamwang89/adamwang89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am currently a second year computer science major at Carnegie Mellon University! I'm really passionate about designing end-to-end user applications to benefit my life and the lives of others around me. I am currently very interested in the topics of human-computer interaction, internet of things (IOT), computer vision and full stack development! 
 
 This summer, I decided to advance my skills in full stack development which lead me to create various projects. My main projects that I decided to embark on was:
@@ -23,3 +20,6 @@ The projects mentioned above are privated. If you are a recruiter who would like
 On the meantime, feel free to look at the projects I have listed below which are meant to be learning experiences for me and you! The projects pinned below explores newer features of web development like redux, css grids, sass, etc as well as simple python bots to automate and make repetitive tasks easier! 
 
 I am very friendly and would love to talk with anyone that wants to reach out to me! Feel free to connect with my on [Linkedin](linkedin.com/in/adam-w-8900631aa)
+<!--
+**adamwang89/adamwang89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
