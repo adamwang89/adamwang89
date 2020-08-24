@@ -22,7 +22,7 @@ The projects mentioned above are privated. If you are a recruiter who would like
 
 ### Connect With Me! 
 
-On the meantime, feel free to look at the projects I have listed below which are meant to be learning experiences for me and you! The projects pinned below explores newer features of web development like redux, css grids, sass, etc as well as simple python bots to automate and make repetitive tasks easier! 
+On the meantime, feel free to look at the projects I have listed below which are meant to be learning experiences for me and you! The projects pinned below explores newer features of web development like redux, css grids,etc as well as simple python bots and bash scripts.
 
 I am very friendly and would love to talk with anyone that wants to reach out to me! Feel free to connect with my on [Linkedin](linkedin.com/in/adam-w-8900631aa)
 <!--
