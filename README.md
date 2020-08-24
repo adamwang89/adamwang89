@@ -4,11 +4,11 @@ I am currently a second year computer science major at Carnegie Mellon Universit
 
 This summer, I decided to advance my skills in full stack development which lead me to create various projects. My main project that I decided to embark on was:
 
-### League Of Logistics (Web link coming soon once approval is received from Riot Games).
+### League Of Logistics (Web link coming soon once approval is received from Riot Games)
 
 League of Legends is an online MOBA game that has millions of users. Every week, Riot Games (parent company) releases a variety of sales that may be hard to track for players who don't frequent the website. My brother and I decided to solve this problem by allowing users to view champion profiles, add them on to their wishlist, and get reminded whenever their favorite skins go on sale! We also are working a feature to try to predict when a skin / champ could potentially go on sale using data we collect on the last time they go on sale.
   
-### Here are the other projects I am currently working on.
+### Here are the other projects I am currently working on
 
 * CMU Connect
 
@@ -20,7 +20,7 @@ CMU Seats is a convenience app designed for the dining areas at CMU. My team and
 
 The projects mentioned above are privated. If you are a recruiter who would like to see more details behind the code and design process that went into making these projects or a programmer who would be interested in adding onto the codebase, feel free to reach out and I will share the repo with you!
 
-### Connect With Me! 
+### Connect With Me
 
 On the meantime, feel free to look at the projects I have listed below which are meant to be learning experiences for me and you! The projects pinned below explores newer features of web development like redux, css grids, hooks, etc as well as simple python bots and bash scripts.
 
