@@ -4,7 +4,7 @@ I am currently a second year computer science major at Carnegie Mellon Universit
 
 This summer, I decided to advance my skills in full stack development which lead me to create various projects. My main project that I decided to embark on was:
 
-### League Of Logistics (lologistics.herokuapp.com)
+### League Of Logistics 
 
 League of Legends is an online MOBA game that has millions of users. Every week, Riot Games (parent company) releases a variety of sales that may be hard to track for players who don't frequent the website. My brother and I decided to solve this problem by allowing users to view champion profiles, add them on to their wishlist, and get reminded whenever their favorite skins go on sale! We also are working a feature to try to predict when a skin / champ could potentially go on sale using data we collect on the last time they go on sale.
   
